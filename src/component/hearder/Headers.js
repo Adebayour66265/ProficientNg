@@ -25,7 +25,7 @@ const Headers = () => {
                         </div>
                     </span>
 
-                    <img src={Logo} alt='Proficient Logo' onClick={goHome} className='logo' />
+                    <img src={Logo} alt='Proficient Logo' onClick={goHome} className='logo' width='30' hight='30'/>
 
                 </div>
                 <div className='text-3x1 absolute right-8 top-6 cursor-pointer '>
